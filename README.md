@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Edward (Eddie) Ofori 👋</h1>
+<h1 align="center">Hi, I'm Edward (Eddie) Ofori </h1>
 <h3 align="center">Data Analyst | Turning Messy Data into Decisions</h3>
 
 <p align="center">
