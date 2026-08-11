@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  📍 Accra, Ghana &nbsp;|&nbsp;
-  🎓 B.Tech Civil Engineering, Takoradi Technical University &nbsp;|&nbsp;
-  ✅ ALX Africa Data Analytics Certified
+   Accra, Ghana &nbsp;|&nbsp;
+   B.Tech Civil Engineering, Takoradi Technical University &nbsp;|&nbsp;
+   ALX Africa Data Analytics Certified
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 I'm a civil engineering graduate pivoting into data analytics — I bring an engineer's eye for structure and precision to messy, real-world data. Every project I build follows the same path: **raw data → cleaning → analysis → dashboard → insight.** I also run **Cue Collective**, an event planning and coordination business.
 
 I'm currently open to **data analyst roles**.
 
-### 🧰 Skills
+###  Skills
 | Category | Tools |
 |---|---|
 | Languages & Libraries | Python, pandas, SQL |
@@ -37,7 +37,7 @@ I'm currently open to **data analyst roles**.
 | Data Engineering | Google BigQuery, MySQL |
 | Other | HTML/CSS/JS, GitHub, Claude API |
 
-### 📌 Pinned: [Data Analytics Portfolio](https://github.com/MeNesta/Edward_Ofori_Portfolio)
+### Pinned: [Data Analytics Portfolio](https://github.com/MeNesta/Edward_Ofori_Portfolio)
 Six end-to-end projects covering SQL, Excel, Power BI, Tableau, and Python:
 - **Insurance Claims Dashboard** (Power BI/Python/Bigquery) — cost is driven by claim type, not volume
 - **Maji Ndogo Water Funds** (Power BI/ Excel) — public infra spend ran 5.3% over budget
@@ -46,16 +46,10 @@ Six end-to-end projects covering SQL, Excel, Power BI, Tableau, and Python:
 - **Layoffs Data Cleaning** (SQL) — full dedup/standardize/null-handling pipeline
 - **Personal Spotify Listening Pipeline** (Python) — in progress
 
-👉 [See the full portfolio with dashboards, insights, and screenshots](https://github.com/MeNesta/Edward_Ofori_Portfolio)
+ [See the full portfolio with dashboards, insights, and screenshots](https://github.com/MeNesta/Edward_Ofori_Portfolio)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MeNesta&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeNesta&layout=compact&hide_border=true" />
-</p>
-
-### 📫 Let's Connect
+### Let's Connect
 Open to data analyst roles — reach out via LinkedIn or email above.
 
-<p align="center"><i>⭐ Check out my pinned portfolio repo above!</i></p>
+<p align="center"><i> Check out my pinned portfolio repo above!</i></p>
 
